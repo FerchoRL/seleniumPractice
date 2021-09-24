@@ -47,6 +47,6 @@ class TestSearchProduct(unittest.TestCase):
         # cls.driver.close()
 
     if __name__ == '__main__':
-        # Generate HTML Report with command: python TestScripts\TestCase_SearchProduct.py
+        # Generate HTML Report with command: python TestScripts\test_search_product.py
         # unittest.main(testRunner=HtmlTestRunner.HTMLTestRunner(output='D:\\htdocs\\pycharmProjects\\apexPractice\\reports'))
         unittest.main()
