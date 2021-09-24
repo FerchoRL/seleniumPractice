@@ -1,0 +1,10 @@
+{
+  "data_1_invalid_search": {
+    "value_search": "IPHONEFIFA67",
+    "expected_msg": "Tu Búsqueda \"IPHONEFIFA67\" arrojó \"0\" resultados"
+  },
+  "data_2_invalid_search": {
+    "value_search": "862471237393",
+    "expected_msg": "Tu Búsqueda \"862471237393\" arssrojó \"0\" resultados"
+  }
+}
